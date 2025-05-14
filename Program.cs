@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("i did it");
+            int fg = 50;
             Console.WriteLine("for exemple");
             Console.WriteLine("its a litele try");
         }
