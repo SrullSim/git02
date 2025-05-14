@@ -5,9 +5,12 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("i did it");
-            Console.WriteLine("for exemple");
-            Console.WriteLine("its a litele try");
+
+            int fg = 2;
+                for( int i = 5; i <10; i++)
+            {
+                Console.WriteLine($"i is{i}");
+            }
         }
     }
 }
